@@ -10,9 +10,10 @@
 	</parent>
 	<groupId>ing.n2h</groupId>
 	<artifactId>validator_annotations</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>validator_annotations</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Customer annotation for validation</description>
+	<packaging>jar</packaging>
 	<url/>
 	<licenses>
 		<license/>
